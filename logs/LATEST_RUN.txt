@@ -1,0 +1,1 @@
+logs/runs/ent0.01_ns2048_lr0.0003_seed0
